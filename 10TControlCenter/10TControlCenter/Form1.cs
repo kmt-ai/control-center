@@ -19,10 +19,6 @@ namespace _10TControlCenter
         public Form1()
         {   
             InitializeComponent();
-            
-            
-           
-         
 
         }
 
