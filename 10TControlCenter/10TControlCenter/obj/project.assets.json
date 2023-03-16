@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Александр\\source\\repos\\10TControlCenter\\10TControlCenter\\10TControlCenter.csproj",
+      "projectUniqueName": "C:\\Users\\Александр\\Documents\\GitHub\\control-center\\10TControlCenter\\10TControlCenter\\10TControlCenter.csproj",
       "projectName": "10TControlCenter",
-      "projectPath": "C:\\Users\\Александр\\source\\repos\\10TControlCenter\\10TControlCenter\\10TControlCenter.csproj",
+      "projectPath": "C:\\Users\\Александр\\Documents\\GitHub\\control-center\\10TControlCenter\\10TControlCenter\\10TControlCenter.csproj",
       "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Александр\\source\\repos\\10TControlCenter\\10TControlCenter\\obj\\",
+      "outputPath": "C:\\Users\\Александр\\Documents\\GitHub\\control-center\\10TControlCenter\\10TControlCenter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",
