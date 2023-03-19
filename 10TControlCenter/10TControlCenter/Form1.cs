@@ -4,7 +4,7 @@ using System.Windows.Forms;
 namespace _10TControlCenter
 {
     public partial class Form1 : Form
-    {
+    { 
         string bname = "";
         string path = @"C:\Users\Александр\Desktop\test\";
         string[] timInfo = {""};
@@ -12,8 +12,8 @@ namespace _10TControlCenter
         {
             path = path + bname + ".txt";
             StreamReader st = new StreamReader(path);
-            timInfo[0] = st.ReadToEnd();
-            listBox1.Items.AddRange(timInfo);
+            
+            textBox1.Text = Convert.ToString(st.ReadToEnd);
             st.Close();
         }
         public Form1()
@@ -33,5 +33,7 @@ namespace _10TControlCenter
             bname = button2.Text;
             teamPic(bname, path);
         }
+
+       
     }
 }
