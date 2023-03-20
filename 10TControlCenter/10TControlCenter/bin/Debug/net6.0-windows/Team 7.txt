@@ -1,0 +1,7 @@
+_Team_7_
+M;12;192.168.212.12;8888;Robot01_1;InOut;
+P;10;192.168.212.10;8888;Robot01_2;InOut;
+T;20;192.168.212.20;8888;TrafficLights01_1;InOut;
+T;22;192.168.212.22;8888;TrafficLights01_2;InOut;
+R;32;192.168.212.32;8888;RemoteTerminal1;InOut;
+B;139;192.168.212.2;8888;BarcodeReader1;InOut;

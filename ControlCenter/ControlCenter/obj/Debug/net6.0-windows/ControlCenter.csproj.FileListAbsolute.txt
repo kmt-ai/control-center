@@ -1,0 +1,17 @@
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\bin\Debug\net6.0-windows\ControlCenter.exe
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\bin\Debug\net6.0-windows\ControlCenter.deps.json
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\bin\Debug\net6.0-windows\ControlCenter.runtimeconfig.json
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\bin\Debug\net6.0-windows\ControlCenter.dll
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\bin\Debug\net6.0-windows\ControlCenter.pdb
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ControlCenter.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ControlCenter.MainWindow.resources
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ControlCenter.csproj.GenerateResource.cache
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ControlCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ControlCenter.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ControlCenter.AssemblyInfo.cs
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ControlCenter.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ControlCenter.dll
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\refint\ControlCenter.dll
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ControlCenter.pdb
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ControlCenter.genruntimeconfig.cache
+C:\Users\Александр\Documents\GitHub\control-center\ControlCenter\ControlCenter\obj\Debug\net6.0-windows\ref\ControlCenter.dll
